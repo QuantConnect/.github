@@ -11,6 +11,7 @@ Today, a global community of independent quants, students, and institutional tea
 - [Documentation](https://www.quantconnect.com/docs/v2): getting started guides, API reference, tutorials, and examples for writing algorithms.
 - [LEAN Engine](https://github.com/QuantConnect/Lean): explore the source, report issues, and contribute to the open-source engine.
 - [LEAN CLI](https://github.com/QuantConnect/lean-cli): run backtests, research, and live trading locally or in the cloud from your terminal.
+- [Skills](https://github.com/QuantConnect/Documentation/tree/master/skills): ready-made skills that help AI coding assistants write and work with QuantConnect algorithms.
 - [Community forum](https://www.quantconnect.com/forum): share strategies, ask questions, and learn from fellow quants and our team.
 
 ## Contact
